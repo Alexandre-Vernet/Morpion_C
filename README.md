@@ -30,10 +30,9 @@ Or you can quit the game with the "Quitter" button.
 
 ### Help
 
+You can see the about section by clicking the "?" and "A propos" wich display the name of the developer (me) and my ex-website.
+
 <img src="https://github.com/Alexandre-Vernet/Morpion_C/assets/72151831/d45cf7e3-f550-4fc4-8667-bdd2a8dec16a"
     width="300px">
-
-    
-You can see the about section by clicking the "?" and "A propos" wich display the name of the developer (me) and my ex-website.
 
 
